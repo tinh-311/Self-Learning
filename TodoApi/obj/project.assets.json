@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Web API\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "E:\\ITC-learning\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "E:\\Web API\\TodoApi\\TodoApi.csproj",
+      "projectPath": "E:\\ITC-learning\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "E:\\Web API\\TodoApi\\obj\\",
+      "outputPath": "E:\\ITC-learning\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",

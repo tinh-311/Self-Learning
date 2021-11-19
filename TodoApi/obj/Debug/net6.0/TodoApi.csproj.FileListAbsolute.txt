@@ -25,3 +25,30 @@ E:\Web API\TodoApi\obj\Debug\net6.0\TodoApi.dll
 E:\Web API\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
 E:\Web API\TodoApi\obj\Debug\net6.0\TodoApi.pdb
 E:\Web API\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\appsettings.Development.json
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\appsettings.json
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\TodoApi.exe
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\TodoApi.deps.json
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\TodoApi.runtimeconfig.json
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\TodoApi.dll
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\ref\TodoApi.dll
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\TodoApi.pdb
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITC-learning\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.csproj.AssemblyReference.cache
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\scopedcss\bundle\TodoApi.styles.css
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.dll
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.pdb
+E:\ITC-learning\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
